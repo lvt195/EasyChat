@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "797368142920",
+    "project_id": "android-491ed",
+    "storage_bucket": "android-491ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797368142920:android:44e1c540928a46d1965c7d",
+        "android_client_info": {
+          "package_name": "com.example.easychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFL9L2zriGDubPguFrkDOU_KpffrocPr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797368142920:android:437ee69324160bf4965c7d",
+        "android_client_info": {
+          "package_name": "com.example.th2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFL9L2zriGDubPguFrkDOU_KpffrocPr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
